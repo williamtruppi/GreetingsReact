@@ -1,9 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const 
+const greeting = {};
 
-ReactDOM.render(
-  
-  document.getElementById("root")
-);
+ReactDOM.render(document.getElementById("root"));
